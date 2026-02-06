@@ -19,7 +19,7 @@ const certifications: Certification[] = [
     credentialUrl: '#',
   },
   {
-    title: 'React Developer Certification',
+    title: 'Angular Developer Certification',
     issuer: 'Meta',
     date: 'January 2024',
     credentialUrl: '#',
